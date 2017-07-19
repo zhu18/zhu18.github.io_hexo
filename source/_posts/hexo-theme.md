@@ -28,6 +28,8 @@ theme: next
 
 ```
 
+<!-- more -->
+
 `Next` 主题拥有”题中题”，可以在主题的 `_config.yml` 中设置：
 
 ```
